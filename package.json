@@ -1,0 +1,20 @@
+{
+  "name": "bootcamp20-homestudy-day-two",
+  "version": "0.0.1",
+  "description": "Homestudy tasks for bootcamp20 day two",
+  "main": "index.js",
+  "scripts": {
+    "test": "spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rkterungwa16"
+  },
+  "keywords": [
+    "words",
+    "reverseString",
+    "api"
+  ],
+  "author": "Richard Terungwa Kombol",
+  "license": "ISC"
+}
